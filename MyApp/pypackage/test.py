@@ -7,6 +7,6 @@ def average(x,y):
 def power(x,y):
     return x**y
   
-print(sum(2,6))
-print(power(2,6))
-print(average(2,6))
+print(sum(2,8))
+print(power(2,8))
+print(average(2,8))
