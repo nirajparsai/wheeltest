@@ -8,3 +8,4 @@ author_email='author@email.com',
 license='no',
 packages=['pypackage'],
 zip_safe=False)
+#
